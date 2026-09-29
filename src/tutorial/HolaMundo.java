@@ -11,6 +11,7 @@ public class HolaMundo {
 		System.out.println("Hola, "+name);
 		System.out.println("Haciendo el ejercicio 1 desde la rama");
 		System.out.println("Nodo 6");
+		System.out.println("Nodo 7");
 	}
 
 }
